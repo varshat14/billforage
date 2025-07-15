@@ -1,10 +1,10 @@
-🧾 BillForge – Invoice Generator
+# 🧾 BillForge – Invoice Generator
 
 BillForge is a modern and responsive invoice generator built with React, Tailwind CSS, and jsPDF. Easily create, preview, and download professional invoices with tax calculations and client details.
 <img width="907" height="748" alt="image" src="https://github.com/user-attachments/assets/632f3fd0-d7da-486b-8cc4-f4f0b2ce4bdc" />
 
 
-⚙️ Features
+# ⚙️ Features
 
 - Add/Edit/Delete invoice items
 - Automatic tax calculation
@@ -16,7 +16,7 @@ BillForge is a modern and responsive invoice generator built with React, Tailwin
 - **Fully responsive** across devices (mobile, tablet, desktop)
 
 
-🛠 Tech Stack
+# 🛠 Tech Stack
 
 - ⚛️ **React** (via Vite)
 - 🎨 **Tailwind CSS**
@@ -24,17 +24,17 @@ BillForge is a modern and responsive invoice generator built with React, Tailwin
 - 🎛 **Headless UI**
   
 
- 📦 Setup Instructions
+ # 📦 Setup Instructions
 
-# Clone the repo
+Clone the repo
 git clone https://github.com/varshat14/billforage.git  && 
 cd billforge
 
-# Install dependencies
+Install dependencies
 npm install
 
-# Run locally
+Run locally
 npm run dev
 
-# Open your browser at:
+Open your browser at:
 http://localhost:5173
