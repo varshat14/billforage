@@ -26,14 +26,15 @@ BillForge is a modern and responsive invoice generator built with React, Tailwin
 
  # 📦 Setup Instructions
 
-Clone the repo
-git clone https://github.com/varshat14/billforage.git  && 
+Clone the repo : 
+git clone https://github.com/varshat14/billforage.git
+
 cd billforge
 
-Install dependencies
+Install dependencies: 
 npm install
 
-Run locally
+Run locally: 
 npm run dev
 
 Open your browser at:
